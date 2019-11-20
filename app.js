@@ -1,6 +1,6 @@
 'use strict';
 
-const setupArticles = require('./api/helpers/setup');
+const SETUPArticles = require('./api/helpers/setup');
 
 var config = {
   appRoot: __dirname // required config
